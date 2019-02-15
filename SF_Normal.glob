@@ -1,0 +1,112 @@
+DIGEST d5e79cb725249d3fe95dd0a151be5b77
+FIntensionalLib.Wave_as_SF.SF_Normal
+R1477:1481 Coq.Arith.Arith <> <> lib
+R1483:1487 Coq.omega.Omega <> <> lib
+R1489:1491 Coq.Arith.Max <> <> lib
+R1509:1542 IntensionalLib.SF_calculus.General <> <> lib
+R1562:1595 IntensionalLib.Wave_as_SF.SF_Terms <> <> lib
+R1615:1650 IntensionalLib.Wave_as_SF.SF_Tactics <> <> lib
+R1670:1707 IntensionalLib.Wave_as_SF.SF_reduction <> <> lib
+ind 1724:1733 <> status_val
+constr 1741:1746 <> Active
+constr 1764:1770 <> Passive
+R1750:1759 IntensionalLib.Wave_as_SF.SF_Normal <> status_val ind
+R1774:1783 IntensionalLib.Wave_as_SF.SF_Normal <> status_val ind
+def 1797:1802 <> status
+R1816:1816 IntensionalLib.Wave_as_SF.SF_Normal <> M var
+R1826:1828 IntensionalLib.Wave_as_SF.SF_Terms <> Ref constr
+R1835:1840 IntensionalLib.Wave_as_SF.SF_Normal <> Active constr
+R1846:1847 IntensionalLib.Wave_as_SF.SF_Terms <> Op constr
+R1854:1860 IntensionalLib.Wave_as_SF.SF_Normal <> Passive constr
+R1864:1866 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R1869:1871 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R1874:1876 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R1879:1880 IntensionalLib.Wave_as_SF.SF_Terms <> Op constr
+R1882:1885 IntensionalLib.Wave_as_SF.SF_Terms <> Node constr
+R1901:1906 IntensionalLib.Wave_as_SF.SF_Normal <> status def
+R1914:1916 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R1926:1931 IntensionalLib.Wave_as_SF.SF_Normal <> status def
+ind 1975:1980 <> normal
+constr 2001:2006 <> nf_ref
+constr 2037:2041 <> nf_op
+constr 2071:2079 <> nf_active
+constr 2239:2249 <> nf_compound
+R1986:1989 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R1984:1985 IntensionalLib.Wave_as_SF.SF_Terms <> SF ind
+R2020:2025 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2028:2030 IntensionalLib.Wave_as_SF.SF_Terms <> Ref constr
+R2032:2032 IntensionalLib.Wave_as_SF.SF_Normal <> n var
+R2055:2060 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2063:2064 IntensionalLib.Wave_as_SF.SF_Terms <> Op constr
+R2066:2066 IntensionalLib.Wave_as_SF.SF_Normal <> o var
+R2106:2109 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2119:2153 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2181:2215 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2216:2221 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2224:2226 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R2231:2232 IntensionalLib.Wave_as_SF.SF_Normal <> M2 var
+R2228:2229 IntensionalLib.Wave_as_SF.SF_Normal <> M1 var
+R2172:2174 Coq.Init.Logic <> :type_scope:x_'='_x not
+R2154:2159 IntensionalLib.Wave_as_SF.SF_Normal <> status def
+R2162:2164 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R2169:2170 IntensionalLib.Wave_as_SF.SF_Normal <> M2 var
+R2166:2167 IntensionalLib.Wave_as_SF.SF_Normal <> M1 var
+R2175:2180 IntensionalLib.Wave_as_SF.SF_Normal <> Active constr
+R2110:2115 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2117:2118 IntensionalLib.Wave_as_SF.SF_Normal <> M2 var
+R2097:2102 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2104:2105 IntensionalLib.Wave_as_SF.SF_Normal <> M1 var
+R2276:2279 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2289:2323 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2344:2347 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2348:2353 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2356:2358 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R2363:2364 IntensionalLib.Wave_as_SF.SF_Normal <> M2 var
+R2360:2361 IntensionalLib.Wave_as_SF.SF_Normal <> M1 var
+R2324:2331 IntensionalLib.Wave_as_SF.SF_reduction <> compound ind
+R2334:2336 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R2341:2342 IntensionalLib.Wave_as_SF.SF_Normal <> M2 var
+R2338:2339 IntensionalLib.Wave_as_SF.SF_Normal <> M1 var
+R2280:2285 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2287:2288 IntensionalLib.Wave_as_SF.SF_Normal <> M2 var
+R2267:2272 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2274:2275 IntensionalLib.Wave_as_SF.SF_Normal <> M1 var
+R2388:2393 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+def 2412:2422 <> irreducible
+R2431:2437 IntensionalLib.Wave_as_SF.SF_Tactics <> termred def
+R2460:2463 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2464:2468 Coq.Init.Logic <> False ind
+R2453:2455 IntensionalLib.Wave_as_SF.SF_Normal <> red var
+R2459:2459 IntensionalLib.Wave_as_SF.SF_Normal <> N var
+R2457:2457 IntensionalLib.Wave_as_SF.SF_Normal <> M var
+prf 2479:2493 <> ref_irreducible
+R2507:2517 IntensionalLib.Wave_as_SF.SF_Normal <> irreducible def
+R2527:2536 IntensionalLib.Wave_as_SF.SF_reduction <> sf_seqred1 ind
+R2520:2522 IntensionalLib.Wave_as_SF.SF_Terms <> Ref constr
+R2524:2524 IntensionalLib.Wave_as_SF.SF_Normal <> n var
+prf 2604:2624 <> normal_is_irreducible
+R2646:2649 Coq.Init.Logic <> :type_scope:x_'->'_x not
+R2650:2660 IntensionalLib.Wave_as_SF.SF_Normal <> irreducible def
+R2664:2673 IntensionalLib.Wave_as_SF.SF_reduction <> sf_seqred1 ind
+R2662:2662 IntensionalLib.Wave_as_SF.SF_Normal <> M var
+R2638:2643 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R2645:2645 IntensionalLib.Wave_as_SF.SF_Normal <> M var
+R2743:2757 IntensionalLib.Wave_as_SF.SF_Normal <> ref_irreducible thm
+prf 3055:3065 <> SF_progress
+R3081:3082 IntensionalLib.Wave_as_SF.SF_Terms <> SF ind
+R3094:3098 Coq.Init.Logic <> :type_scope:x_'\/'_x not
+R3123:3123 Coq.Init.Logic <> :type_scope:x_'\/'_x not
+R3086:3091 IntensionalLib.Wave_as_SF.SF_Normal <> normal ind
+R3093:3093 IntensionalLib.Wave_as_SF.SF_Normal <> M var
+R3099:3105 Coq.Init.Logic <> :type_scope:'exists'_x_'..'_x_','_x not
+R3107:3108 Coq.Init.Logic <> :type_scope:'exists'_x_'..'_x_','_x not
+R3109:3118 IntensionalLib.Wave_as_SF.SF_reduction <> sf_seqred1 ind
+R3122:3122 IntensionalLib.Wave_as_SF.SF_Normal <> N var
+R3120:3120 IntensionalLib.Wave_as_SF.SF_Normal <> M var
+R3259:3261 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R3259:3261 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R3329:3331 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R3329:3331 IntensionalLib.Wave_as_SF.SF_Terms <> App constr
+R3454:3462 IntensionalLib.Wave_as_SF.SF_Normal <> nf_active constr
+R3698:3706 IntensionalLib.Wave_as_SF.SF_Normal <> nf_active constr
+R3738:3746 IntensionalLib.Wave_as_SF.SF_Normal <> nf_active constr

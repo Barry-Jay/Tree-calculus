@@ -1,0 +1,46 @@
+(**********************************************************************)
+(* This Program is free software; you can redistribute it and/or      *)
+(* modify it under the terms of the GNU Lesser General Public License *)
+(* as published by the Free Software Foundation; either version 2.1   *)
+(* of the License, or (at your option) any later version.             *)
+(*                                                                    *)
+(* This program is distributed in the hope that it will be useful,    *)
+(* but WITHOUT ANY WARRANTY; without even the implied warranty of     *)
+(* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the      *)
+(* GNU General Public License for more details.                       *)
+(*                                                                    *)
+(* You should have received a copy of the GNU Lesser General Public   *)
+(* License along with this program; if not, write to the Free         *)
+(* Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA *)
+(* 021101301 USA                                                     *)
+(**********************************************************************)
+
+(**********************************************************************)
+(*                  SF_Interpretation.v                               *)
+(*                                                                    *)
+(*                     Barry Jay                                      *)
+(*                                                                    *)
+(**********************************************************************)
+
+
+Require Import Omega Max Bool List.
+Require Import IntensionalLib.SF_calculus.Test.  
+Require Import IntensionalLib.SF_calculus.General.  
+Require Import IntensionalLib.Wave_as_SF.SF_Terms.  
+Require Import IntensionalLib.Wave_as_SF.SF_Tactics.  
+Require Import IntensionalLib.Wave_as_SF.SF_reduction.  
+Require Import IntensionalLib.Wave_as_SF.SF_Normal.  
+Require Import IntensionalLib.Wave_as_SF.SF_Closed.  
+Require Import IntensionalLib.Wave_as_SF.Substitution.  
+Require Import IntensionalLib.Wave_as_SF.SF_Eval.  
+Require Import IntensionalLib.Wave_as_SF.Star.  
+Require Import IntensionalLib.Wave_as_SF.Wait.  
+Require Import IntensionalLib.Wave_as_SF.Fixpoints.  
+Require Import IntensionalLib.Wave_as_SF.Wave_Factor.  
+Require Import IntensionalLib.Wave_as_SF.Wave_Factor2.  
+Require Import IntensionalLib.Wave_as_SF.Equal.  
+Require Import IntensionalLib.Wave_as_SF.Extensions.  
+
+
+Definition newS := A_k 3. 
+
